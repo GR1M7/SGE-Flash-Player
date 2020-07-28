@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace GR1MTECH.SGE {
+namespace SGE {
     using System;
     
     
@@ -39,7 +39,7 @@ namespace GR1MTECH.SGE {
         internal static global::System.Resources.ResourceManager ResourceManager {
             get {
                 if (object.ReferenceEquals(resourceMan, null)) {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("GR1MTECH.SGE.RES", typeof(RES).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("SGE.RES", typeof(RES).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;

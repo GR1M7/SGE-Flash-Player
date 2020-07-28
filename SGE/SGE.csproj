@@ -6,7 +6,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{96530366-535E-4CA4-BCBD-865E9B72D0CE}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>GR1MTECH.SGE</RootNamespace>
+    <RootNamespace>SGE</RootNamespace>
     <AssemblyName>SGE Flash Player</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>GR1MTECH.SGE.Program</StartupObject>
+    <StartupObject>SGE.Program</StartupObject>
   </PropertyGroup>
   <PropertyGroup>
     <ApplicationIcon>Resources\SGE_Icon.ico</ApplicationIcon>

@@ -1,7 +1,7 @@
 ﻿using System.Diagnostics;
 using System.Windows.Forms;
 
-namespace GR1MTECH.SGE.Forms
+namespace SGE.Forms
 {
     public partial class About : Form
     {

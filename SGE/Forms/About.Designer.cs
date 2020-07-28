@@ -1,4 +1,4 @@
-﻿namespace GR1MTECH.SGE.Forms
+﻿namespace SGE.Forms
 {
     partial class About
     {
@@ -39,7 +39,7 @@
             // 
             // pictureBox1
             // 
-            this.pictureBox1.Image = global::GR1MTECH.SGE.RES.SGE_Large;
+            this.pictureBox1.Image = global::SGE.RES.SGE_Large;
             this.pictureBox1.Location = new System.Drawing.Point(12, 12);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(128, 128);

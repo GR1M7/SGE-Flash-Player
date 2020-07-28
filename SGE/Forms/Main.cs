@@ -3,7 +3,7 @@ using System.IO;
 using System.Reflection;
 using System.Windows.Forms;
 
-namespace GR1MTECH.SGE.Forms
+namespace SGE.Forms
 {
     public partial class Main : Form
     {

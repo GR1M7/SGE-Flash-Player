@@ -9,7 +9,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyDescription("A tool created to play *.swf files.")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("GR1MTECH")]
-[assembly: AssemblyProduct("GR1MTECH.SGE")]
+[assembly: AssemblyProduct("SGE Flash Player")]
 [assembly: AssemblyCopyright("Copyright ©  2020")]
 [assembly: AssemblyTrademark("GR1MTECH")]
 [assembly: AssemblyCulture("")]

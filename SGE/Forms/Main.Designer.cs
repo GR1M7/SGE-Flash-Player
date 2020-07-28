@@ -1,4 +1,4 @@
-﻿namespace GR1MTECH.SGE.Forms
+﻿namespace SGE.Forms
 {
     partial class Main
     {
@@ -147,7 +147,7 @@
 
         #endregion
 
-        private System.Windows.Forms.MenuStrip Menu;
+        private new System.Windows.Forms.MenuStrip Menu;
         private System.Windows.Forms.ToolStripMenuItem fileToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem BTN_Open;
         private System.Windows.Forms.ToolStripMenuItem BTN_Close;

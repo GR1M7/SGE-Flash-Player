@@ -2,7 +2,7 @@
 using System.IO;
 using System.Windows.Forms;
 
-namespace GR1MTECH.SGE
+namespace SGE
 {
     static class Program
     {
